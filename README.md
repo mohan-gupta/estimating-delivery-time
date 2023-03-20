@@ -158,8 +158,8 @@ sh run.sh  #run
 ## To run the project
 
 ```bash
-git clone https://github.com/mohan-gupta/driving-scene-segmentation.git  # clone
-cd estimationg-delivery-time
+git clone https://github.com/mohan-gupta/estimating-delivery-time.git  # clone
+cd estimating-delivery-time
 pip install -r requirements.txt  # install
 cd app
 streamlit run streamlit_app.py  #run
