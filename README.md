@@ -147,14 +147,6 @@ Refer to [hypertuning.py](src/hypertuning.py)
 
 </details>
 
-## To train and save the best models
-First follow the above approach to prepare the data, then run the following command.
-
-```bash
-cd src
-sh run.sh  #run
-```
-
 ## To run the project
 
 ```bash
@@ -163,4 +155,12 @@ cd estimating-delivery-time
 pip install -r requirements.txt  # install
 cd app
 streamlit run streamlit_app.py  #run
+```
+
+## To train and save the best models
+First follow the approach mentioned above after E.D.A to prepare the data, then run the following command.
+
+```bash
+cd src
+sh run.sh  #run
 ```
