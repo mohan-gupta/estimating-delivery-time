@@ -143,7 +143,8 @@ Refer to [hypertuning.py](src/hypertuning.py)
 ### Homoscedastic Test
 <img src="artifacts/h test.png"><br>
 
-
+### Conformal Predicitons
+<img src="artifacts/conformal preds.png"><br>
 
 </details>
 
